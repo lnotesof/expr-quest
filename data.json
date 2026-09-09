@@ -180,6 +180,15 @@
       "example": "A little exercise can make a big difference.",
       "ko": "조금만 운동해도 큰 차이가 생길 수 있어.",
       "id": "id_mtska2bv_dao4zgb"
+    },
+    {
+      "base": "안녕하신교",
+      "expr": "테스트",
+      "meaning": "중입니다",
+      "example": "되고있게숒",
+      "ko": "잘 모르겟네요 ㅇ",
+      "image": null,
+      "id": "id_mtu43w8m_w5k16id"
     }
   ]
 }
