@@ -1,194 +1,59 @@
 {
-  "title": "Make 표현 연습 20",
+  "title": "Make 표현 연습",
   "items": [
+    {
+      "base": "make",
+      "expr": "make a mess",
+      "meaning": "엉망으로 만들다 / 어질러 놓다",
+      "emoji": "🧹🗑️",
+      "example": "I always make a mess when I cook.",
+      "ko": "나는 요리할 때 항상 주변을 엉망으로 만들어.",
+      "id": "id_mtu4k12l_vnhm6b7"
+    },
     {
       "base": "make",
       "expr": "make the bed",
       "meaning": "침대를 정리하다",
       "emoji": "🛏️✨",
-      "example": "I make the bed every morning.",
+      "example": "I make my bed every morning.",
       "ko": "나는 매일 아침 침대를 정리해.",
-      "id": "id_mtska2bv_uqnp347"
-    },
-    {
-      "base": "make",
-      "expr": "make breakfast",
-      "meaning": "아침을 차리다 / 만들다",
-      "emoji": "🍳🥞",
-      "example": "I usually make breakfast for my family.",
-      "ko": "나는 보통 가족을 위해 아침을 차려.",
-      "id": "id_mtska2bv_rnooxui"
-    },
-    {
-      "base": "make",
-      "expr": "make dinner",
-      "meaning": "저녁을 차리다 / 만들다",
-      "emoji": "🍽️🌙",
-      "example": "I'll make dinner tonight.",
-      "ko": "오늘 저녁은 내가 만들게.",
-      "id": "id_mtska2bv_1wwwknt"
-    },
-    {
-      "base": "make",
-      "expr": "make coffee",
-      "meaning": "커피를 만들다",
-      "emoji": "☕",
-      "example": "I make coffee as soon as I wake up.",
-      "ko": "나는 일어나자마자 커피를 만들어.",
-      "id": "id_mtska2bv_fg1qmh7"
-    },
-    {
-      "base": "make",
-      "expr": "make a reservation",
-      "meaning": "예약하다",
-      "emoji": "📅📞",
-      "example": "I made a reservation for six tonight.",
-      "ko": "나 오늘 저녁 6시로 예약했어.",
-      "id": "id_mtska2bv_546n7xw"
-    },
-    {
-      "base": "make",
-      "expr": "make a phone call",
-      "meaning": "전화를 걸다",
-      "emoji": "📱📞",
-      "example": "I need to make a phone call before I leave.",
-      "ko": "나 가기 전에 전화 한 통 해야 해.",
-      "id": "id_mtska2bv_rlzckpx"
-    },
-    {
-      "base": "make",
-      "expr": "make a mistake",
-      "meaning": "실수하다",
-      "emoji": "❌😅",
-      "example": "Everyone makes mistakes sometimes.",
-      "ko": "누구나 가끔 실수해.",
-      "id": "id_mtska2bv_81mnf1h"
+      "id": "id_mtu4k12l_7o0q2y4"
     },
     {
       "base": "make",
       "expr": "make a decision",
       "meaning": "결정을 내리다",
-      "emoji": "🤔✅",
-      "example": "I need some time to make a decision.",
-      "ko": "나 결정을 내리려면 시간이 좀 필요해.",
-      "id": "id_mtska2bv_fhqomig"
-    },
-    {
-      "base": "make",
-      "expr": "make plans",
-      "meaning": "계획을 세우다",
-      "emoji": "📝📅",
-      "example": "We made plans to go to the beach this weekend.",
-      "ko": "우리는 이번 주말에 바다에 가기로 계획을 세웠어.",
-      "id": "id_mtska2bv_zpu1m1f"
+      "emoji": "🤔➡️✅",
+      "example": "I need to make a decision by Friday.",
+      "ko": "나는 금요일까지 결정을 내려야 해.",
+      "id": "id_mtu4k12l_3cac9db"
     },
     {
       "base": "make",
       "expr": "make money",
       "meaning": "돈을 벌다",
       "emoji": "💼💵",
-      "example": "He makes good money working from home.",
-      "ko": "그는 재택근무를 하면서 돈을 꽤 잘 벌어.",
-      "id": "id_mtska2bv_ugdntht"
-    },
-    {
-      "base": "make",
-      "expr": "make an appointment",
-      "meaning": "예약을 잡다",
-      "emoji": "📅🏥",
-      "example": "I need to make an appointment with my doctor.",
-      "ko": "나 병원 진료 예약을 잡아야 해.",
-      "id": "id_mtska2bv_7ijgt43"
-    },
-    {
-      "base": "make",
-      "expr": "make a mess",
-      "meaning": "어지럽히다 / 엉망으로 만들다",
-      "emoji": "🧹🗑️",
-      "example": "Don't make a mess in the kitchen.",
-      "ko": "부엌을 엉망으로 만들지 마.",
-      "id": "id_mtska2bv_en02jve"
-    },
-    {
-      "base": "make",
-      "expr": "make sure",
-      "meaning": "반드시 확인하다 / ~하도록 하다",
-      "emoji": "🔍✅",
-      "example": "Make sure you lock the door.",
-      "ko": "문 잠그는 거 꼭 확인해.",
-      "id": "id_mtska2bv_xukvngu"
-    },
-    {
-      "base": "make",
-      "expr": "make it",
-      "meaning": "해내다 / 참석하다 / 시간에 맞춰 가다",
-      "emoji": "🏃⏰",
-      "example": "I don't think I can make it tonight.",
-      "ko": "나 오늘 밤에는 못 갈 것 같아.",
-      "id": "id_mtska2bv_fqyfel4"
-    },
-    {
-      "base": "make",
-      "expr": "make time for ~",
-      "meaning": "~을 위한 시간을 내다",
-      "emoji": "⏰🏃",
-      "example": "I need to make time for exercise.",
-      "ko": "나 운동할 시간을 내야 해.",
-      "id": "id_mtska2bv_ehshmq1"
-    },
-    {
-      "base": "make",
-      "expr": "make room for ~",
-      "meaning": "~을 위한 자리를 만들다",
-      "emoji": "🪑➡️🙂",
-      "example": "Can you make room for me?",
-      "ko": "나 들어갈 자리 좀 만들어 줄래?",
-      "id": "id_mtska2bv_bbhl3qj"
-    },
-    {
-      "base": "make",
-      "expr": "make a list",
-      "meaning": "목록을 만들다 / 리스트를 작성하다",
-      "emoji": "📝📋",
-      "example": "I made a list of things I need to buy.",
-      "ko": "내가 사야 할 것들을 리스트로 적었어.",
-      "id": "id_mtska2bv_psvg660"
+      "example": "He makes good money as a designer.",
+      "ko": "그는 디자이너로서 돈을 꽤 잘 벌어.",
+      "id": "id_mtu4k12l_hkgs926"
     },
     {
       "base": "make",
       "expr": "make friends",
       "meaning": "친구를 사귀다",
       "emoji": "👋🧑‍🤝‍🧑",
-      "example": "It's easy to make friends when you travel.",
-      "ko": "여행하면 친구를 사귀기 쉬워.",
-      "id": "id_mtska2bv_2ts52i3"
+      "example": "It's easy to make friends here.",
+      "ko": "여기서는 친구를 사귀기 쉬워.",
+      "id": "id_mtu4k12l_6ljg1uh"
     },
     {
-      "base": "make",
-      "expr": "make an effort",
-      "meaning": "노력하다",
-      "emoji": "💪🎯",
-      "example": "I'm trying to make more of an effort to exercise.",
-      "ko": "나 운동을 더 열심히 하려고 노력하고 있어.",
-      "id": "id_mtska2bv_0z8fff3"
-    },
-    {
-      "base": "make",
-      "expr": "make a difference",
-      "meaning": "차이를 만들다 / 큰 영향을 주다",
-      "emoji": "✨📈",
-      "example": "A little exercise can make a big difference.",
-      "ko": "조금만 운동해도 큰 차이가 생길 수 있어.",
-      "id": "id_mtska2bv_dao4zgb"
-    },
-    {
-      "base": "안녕하신교",
-      "expr": "테스트",
-      "meaning": "중입니다",
-      "example": "되고있게숒",
-      "ko": "잘 모르겟네요 ㅇ",
+      "base": "ㅣㅈ금",
+      "expr": "테스",
+      "meaning": "중",
+      "example": "학",
+      "ko": "아",
       "image": null,
-      "id": "id_mtu43w8m_w5k16id"
+      "id": "id_mtu4kdqd_j4g4a8x"
     }
   ]
 }
