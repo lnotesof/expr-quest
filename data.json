@@ -47,31 +47,13 @@
       "id": "id_mtu4k12l_6ljg1uh"
     },
     {
-      "base": "ㅣㅈ금",
-      "expr": "테스",
-      "meaning": "중",
-      "example": "학",
-      "ko": "아",
-      "image": null,
-      "id": "id_mtu4kdqd_j4g4a8x"
-    },
-    {
       "base": "999",
-      "expr": "화면",
-      "meaning": "테스트",
-      "example": "중입니다",
-      "ko": "아하너",
-      "image": null,
-      "id": "id_mtu4yudm_fi6ry5i"
-    },
-    {
-      "base": "지금",
       "expr": "999",
-      "meaning": "테스트",
-      "example": "중",
-      "ko": "입니다",
+      "meaning": "999",
+      "example": "999",
+      "ko": "999",
       "image": null,
-      "id": "id_mtu4z91d_9xqqkv6"
+      "id": "id_mtu50t56_y6it0lw"
     }
   ]
 }
