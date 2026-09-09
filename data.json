@@ -1,0 +1,50 @@
+{
+  "title": "Make 표현 연습",
+  "items": [
+    {
+      "id": "make_mess",
+      "base": "make",
+      "expr": "make a mess",
+      "meaning": "엉망으로 만들다 / 어질러 놓다",
+      "emoji": "🧹🗑️",
+      "example": "I always make a mess when I cook.",
+      "ko": "나는 요리할 때 항상 주변을 엉망으로 만들어."
+    },
+    {
+      "id": "make_bed",
+      "base": "make",
+      "expr": "make the bed",
+      "meaning": "침대를 정리하다",
+      "emoji": "🛏️✨",
+      "example": "I make my bed every morning.",
+      "ko": "나는 매일 아침 침대를 정리해."
+    },
+    {
+      "id": "make_decision",
+      "base": "make",
+      "expr": "make a decision",
+      "meaning": "결정을 내리다",
+      "emoji": "🤔➡️✅",
+      "example": "I need to make a decision by Friday.",
+      "ko": "나는 금요일까지 결정을 내려야 해."
+    },
+    {
+      "id": "make_money",
+      "base": "make",
+      "expr": "make money",
+      "meaning": "돈을 벌다",
+      "emoji": "💼💵",
+      "example": "He makes good money as a designer.",
+      "ko": "그는 디자이너로서 돈을 꽤 잘 벌어."
+    },
+    {
+      "id": "make_friends",
+      "base": "make",
+      "expr": "make friends",
+      "meaning": "친구를 사귀다",
+      "emoji": "👋🧑‍🤝‍🧑",
+      "example": "It's easy to make friends here.",
+      "ko": "여기서는 친구를 사귀기 쉬워."
+    }
+  ]
+}
