@@ -45,6 +45,15 @@
       "example": "It's easy to make friends here.",
       "ko": "여기서는 친구를 사귀기 쉬워.",
       "id": "id_mtu4k12l_6ljg1uh"
+    },
+    {
+      "base": "1000",
+      "expr": "1000",
+      "meaning": "1000",
+      "example": "1000",
+      "ko": "1000",
+      "image": null,
+      "id": "id_mtu5b77a_b3e3hof"
     }
   ]
 }
